@@ -1,4 +1,1 @@
-this is file 2
-this is text file
-modified file 2
-modified again
+updated file 2
